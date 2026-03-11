@@ -28,9 +28,4 @@ Core Features:
 
 ---
 
-## Installation
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/Karnatimk007/shadow-ai-platform.git
-cd shadow-ai-platform
